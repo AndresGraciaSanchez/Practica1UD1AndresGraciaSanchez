@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694ac993-fdb5-4059-8cd4-eac75991ed1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/producto.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/base/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/base/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/base/Herramienta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/base/Herramienta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TiendaMVC/base/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/base/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/base/Software.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/base/Software.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/base/Venta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/base/Venta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoControlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoModelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoModelo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/util/Inventario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/util/Inventario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/util/Util.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,8 @@
   </component>
   <component name="ProjectId" id="35HEz3rc5MZPxDtxIzGexDFxrKe" />
   <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="142" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="193" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/LGoodDatePicker-10.3.1.jar!/" />
@@ -38,6 +41,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DAM 2\ACCESO A DATOS\Practica1UD1AndresGraciaSanchez" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\DAM 2\ACCESO A DATOS\Practica1UD1AndresGraciaSanchez\libs" />
     </key>
@@ -54,6 +60,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiendaMVC.Principal" />
+      <module name="Practica1UD1AndresGraciaSanchez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TiendaMVC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -69,6 +95,18 @@
       <workItem from="1762792932278" duration="2473000" />
       <workItem from="1762844771075" duration="525000" />
       <workItem from="1762847696618" duration="3412000" />
+      <workItem from="1762855250859" duration="275000" />
+      <workItem from="1762962436926" duration="3278000" />
+      <workItem from="1763030075904" duration="1730000" />
+      <workItem from="1763050284886" duration="1635000" />
+      <workItem from="1763051945468" duration="21000" />
+      <workItem from="1763051972786" duration="39000" />
+      <workItem from="1763052019344" duration="41000" />
+      <workItem from="1763052071370" duration="4305000" />
+      <workItem from="1763110630733" duration="2742000" />
+      <workItem from="1763130550098" duration="534000" />
+      <workItem from="1763146894792" duration="3098000" />
+      <workItem from="1763157372291" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1762792973290</created>
