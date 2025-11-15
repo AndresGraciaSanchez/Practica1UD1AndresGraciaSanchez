@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694ac993-fdb5-4059-8cd4-eac75991ed1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/producto.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/base/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/base/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practica1UD1AndresGraciaSanchez/TiendaMVC/gui/ProductoControlador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica1UD1AndresGraciaSanchez/TiendaMVC/gui/ProductoControlador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practica1UD1AndresGraciaSanchez/TiendaMVC/gui/ProductoModelo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica1UD1AndresGraciaSanchez/TiendaMVC/gui/ProductoModelo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practica1UD1AndresGraciaSanchez/TiendaMVC/gui/Ventana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica1UD1AndresGraciaSanchez/TiendaMVC/gui/Ventana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producto.conf" beforeDir="false" afterPath="$PROJECT_DIR$/producto.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoControlador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoModelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/ProductoModelo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/gui/Ventana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiendaMVC/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiendaMVC/util/Util.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +106,8 @@
       <workItem from="1763130550098" duration="534000" />
       <workItem from="1763146894792" duration="3098000" />
       <workItem from="1763157372291" duration="158000" />
+      <workItem from="1763208658401" duration="2267000" />
+      <workItem from="1763210996562" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1762792973290</created>

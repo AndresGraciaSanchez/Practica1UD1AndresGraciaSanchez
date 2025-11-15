@@ -15,7 +15,6 @@ public class Ventana {
     public JSpinner spinnerStock;
     public JTextField textFieldVersion;
     public JTextField textFieldRepositorio;
-    public JTextField textFieldDescripcion;
     public JTextField textFieldSistemaOperativo;
     public JTextField textFieldRequerimientos;
     public JButton nuevoButton;
@@ -25,6 +24,9 @@ public class Ventana {
     public DatePicker fechaPublicacion;
     public JTextField textFieldTipoLicencia;
     public JTextField textFieldId;
+    public JLabel requerimientosLabel;
+    public JLabel sistemaOperativoLabel;
+    public JTextArea textAreaDescripcion;
 
     //Creados por mi
     public JFrame frame;
